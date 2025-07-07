@@ -1,7 +1,7 @@
 function showMessage() {
 
   setTimeout(function () {
-    alert("Thank you for giving me time to read this...\n\nI hope na appreciate mo 'to😊");
+    alert("lorep ipsum");
   }, 500);
 }
 
